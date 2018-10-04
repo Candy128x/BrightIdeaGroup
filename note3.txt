@@ -1,0 +1,10 @@
+fixedName: BrightIdeaGroup
+#180804
+Tech Used..
+html, css, javascript, bootstrap..
+
+GitHub:
+https://github.com/Candy128x/BrightIdeaGroup
+>remtbig: https://github.com/Candy128x/BrightIdeaGroup.git
+^brnbig
+925:brnbigo
